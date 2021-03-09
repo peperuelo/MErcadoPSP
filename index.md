@@ -6,7 +6,7 @@
     <title>Mercado</title>
     <link rel="icon" type= "image/jpg" href="images/icon.png">
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Open+Sans&family=Source+Sans+Pro&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="CSS/estilos.css">
+    <link rel="stylesheet" href="css/estilos.css">
     </head>
     <body>
         
